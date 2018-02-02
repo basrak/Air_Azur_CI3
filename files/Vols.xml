@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<vols>
+    <vol numero="AIR5007">
+        <depart>Paris CDG - France</depart>
+        <arrivee>Dakar - Sénégal</arrivee>
+        <dateDepart>22/04/2018 12:00</dateDepart>
+        <dateArrivee>22/04/2018 17:00</dateArrivee>
+        <jour>Dimanche</jour>
+        <prix>560</prix>
+        <places>120</places>
+    </vol>
+    
+    <vol numero="AIR5007">
+        <depart>Paris CDG - France</depart>
+        <arrivee>Dakar - Sénégal</arrivee>
+        <dateDepart>29/04/2018 13:00</dateDepart>
+        <dateArrivee>29/04/2018 18:20</dateArrivee>
+        <jour>Dimanche</jour>
+        <prix>600</prix>
+        <places>120</places>
+    </vol>
+    
+    <vol numero="AIR5204">
+        <depart>Paris Orly - France</depart>
+        <arrivee>Rabat - Maroc</arrivee>
+        <dateDepart>23/04/2018 13:00</dateDepart>
+        <dateArrivee>23/04/2018 18:20</dateArrivee>
+        <jour>Lundi</jour>
+        <prix>600</prix>
+        <places>120</places>
+    </vol>
+    
+    <vol numero="AIR5208">
+        <depart>Paris Orly - France</depart>
+        <arrivee>Rabat - Maroc</arrivee>
+        <dateDepart>19/02/2018 14:00</dateDepart>
+        <dateArrivee>19/02/2018 19:10</dateArrivee>
+        <jour>Lundi</jour>
+        <prix>600</prix>
+        <places>120</places>
+    </vol>
+    <vol numero="AIR4305">
+        <depart>Amsterdam - Pays-bas</depart>
+        <arrivee>Lima - Pérou</arrivee>
+        <dateDepart>23/01/2018 22:00</dateDepart>
+        <dateArrivee>24/01/2018 06:20</dateArrivee>
+        <jour>Mardi</jour>
+        <prix>1200</prix>
+        <places>180</places>
+    </vol>
+    <vol numero="AIR4901">
+        <depart>Tokyo - Afrique du Sud</depart>
+        <arrivee>Alger - Algérie</arrivee>
+        <dateDepart>12/06/2018 13:00</dateDepart>
+        <dateArrivee>12/06/2018 22:10</dateArrivee>
+        <jour>Mardi</jour>
+        <prix>900</prix>
+        <places>140</places>
+    </vol>
+    <vol numero="AIR2208">
+        <depart>Paris CDG - France</depart>
+        <arrivee>La Havane - Cuba</arrivee>
+        <dateDepart>21/09/2018 09:00</dateDepart>
+        <dateArrivee>21/09/2018 19:45</dateArrivee>
+        <jour>Vendredi</jour>
+        <prix>600</prix>
+        <places>120</places>
+    </vol>
+    <vol numero="AIR2215">
+        <depart>Paris CDG - France</depart>
+        <arrivee>Lisbonne - Portugal</arrivee>
+        <dateDepart>26/04/2018 13:00</dateDepart>
+        <dateArrivee>26/04/2018 18:20</dateArrivee>
+        <jour>Jeudi</jour>
+        <prix>600</prix>
+        <places>120</places>
+    </vol>
+    <vol numero="AIR5304">
+        <depart>Moscou - Russie</depart>
+        <arrivee>Madrid - Espagne</arrivee>
+        <dateDepart>17/03/2018 14:00</dateDepart>
+        <dateArrivee>17/03/2018 19:45</dateArrivee>
+        <jour>Samedi</jour>
+        <prix>900</prix>
+        <places>180</places>
+    </vol>
+    <vol numero="AIR3021">
+        <depart>Lisbonne - Portugal</depart>
+        <arrivee>Oslo - Norvege</arrivee>
+        <dateDepart>01/04/2018 12:00</dateDepart>
+        <dateArrivee>01/04/2018 18:50</dateArrivee>
+        <jour>Dimanche</jour>
+        <prix>600</prix>
+        <places>120</places>
+    </vol>
+   
+</vols>
+
