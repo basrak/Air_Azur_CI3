@@ -2,24 +2,22 @@
 <?php
 defined('BASEPATH') OR exit('No direct script access allowed');
 
-session_start();
-
 class Agence extends CI_Controller {
 
     function __construct() {
         parent:: __construct();
         $this->load->helper('form');
         $this->load->helper('url');
+        $this->load->library('session');
         //$this->output->enable_profiler(TRUE);                
         //$this->load->model('produitsmodel');  
-        $title = 'Agence ' . $_SESSION['login'] . ' - Air Azur';
-        $nav = $this->load->view('frontend/navigation');
+        $data['title'] = 'Agence ' . $this->session->login . ' - Air Azur';
     }
 
     public function accueil() {
 
-        if (isset($_SESSION['login']) && $_SESSION['uStatus'] == 'agence') {
-            $this->load->view('frontend/homeView');
+        if ($this->session->login != null && $this->session->login == 'agence') {
+            $this->load->view('frontend/homeView', $data);
         }
     }
 
